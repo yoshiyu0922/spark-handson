@@ -3,6 +3,7 @@
 ## 概要
 
 - 基本的なSparkとScalaのプログラミングを理解するためのハンズオン
+- ハンスオン内容 => [HANDSON.md](HANDSON.md)
 
 ## Environment
 
