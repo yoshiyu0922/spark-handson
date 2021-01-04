@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+
+# intelliJ
+.idea/
+*.iml
+
+# Log file
+*.log
+
+# Compiled class file
+*.class
+
+# project
+out/
+target/
