@@ -3,7 +3,8 @@
 ## 概要
 
 - 基本的なSparkとScalaのプログラミングを理解するためのハンズオン
-- ハンスオン内容 => [HANDSON.md](HANDSON.md)
+- Scala ハンスオン => [SCALA_HANDSON.md](SCALA_HANDSON.md)
+- Spark ハンスオン => [SPARK_HANDSON.md](SPARK_HANDSON.md)
 
 ## Environment
 
